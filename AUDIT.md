@@ -3,8 +3,8 @@
 Build del POC de living illustration de Lihué.
 
 - Rama: `experience/poc-v3-signature`
-- Commit: `aedc61cee15aaeb3377d74c42a3c27d901d0d26c`
-  (primera transición real: tableau → clip → último frame congelado)
+- Commit: `1449510e0c4d1087af85cba28a8366d27179b817`
+  (living world v4: vegetación, agua, fauna y magia reactiva)
 - Build: `vite build --base=/living-poc/`
 
 Las rutas absolutas de assets se reescriben en el bundle generado a
